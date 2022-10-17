@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "new",
+        "Tree",
+        "Stack",
+        "Queue",
+        "LinkedList",
+        "StringFormat"
+    ]
+}

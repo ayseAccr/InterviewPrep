@@ -1,8 +1,11 @@
+
+
+class TwoStack{
+
+
 private static final Scanner scan = new Scanner(System.in);
-public static void main(String[] args) {
-   
-     
-   
+
+public static void main() {
    
   
     int num = scan.nextInt();
@@ -61,3 +64,4 @@ public static void main(String[] args) {
     scan.close();
     
 }  
+}

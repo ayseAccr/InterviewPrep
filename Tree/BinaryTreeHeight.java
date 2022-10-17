@@ -34,6 +34,7 @@ class Solution {
     }
 
 	public static Node insert(Node root, int data) {
+        
         if(root == null) {
             return new Node(data);
         } else {

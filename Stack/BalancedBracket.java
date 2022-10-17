@@ -1,7 +1,5 @@
-class Result {
+class BalanceBracket {
 
-   
-    
     public static String isBalanced(String s) {
         Stack<Character>s1=new Stack<>();
         Stack<Character>s2=new Stack<>();
@@ -35,5 +33,9 @@ class Result {
         
          return  "YES";
     }
+       
+
+
+
 
 }
